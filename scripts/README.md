@@ -2,7 +2,7 @@
 
 These scripts reproduce every number in Section 7 and in the subsection
 on the adaptive host across episodes (Section 8) of
-`monty_hall_paper_en_R1.tex`, check the main claims of Sections 5 and 6,
+the paper, check the main claims of Sections 5 and 6,
 and reproduce every number added in the second round of revisions
 (Theorem 3.2, the Dirichlet entropy derivation, Subsection 8.1 and Section 9). The third round adds a
 computer-assisted proof for Corollary 7.7 (`dirichlet_certify.py`) and checks for
